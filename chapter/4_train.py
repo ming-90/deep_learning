@@ -82,3 +82,5 @@ def function_2(x):
 
 init_x = np.array([-3.0, 4.0])
 print(gradient_descent(function_2, init_x=init_x, lr=0.1, step_num=100))
+
+
